@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Content Filter Settings</title>
+  <link rel="stylesheet" href="popup.css">
+</head>
+<body>
+  <div class="container">
+    <h1>Content Filter Settings</h1>
+
+    <div class="section">
+      <h2>필터 문구를 입력하고 저장을 누르세요</h2>
+      <p class="help-text"><strong>필터링할문구</strong> 혹은 <strong>필터링할문구:게시판이름</strong></p>
+      <textarea id="filterWords" rows="10"></textarea>
+    </div>
+
+    <div class="actions">
+      <button id="saveButton">저장</button>
+      <div id="status"></div>
+      <div class="toggle-container">
+        <label for="showFiltered">숨긴 글 다시보기:</label>
+        <input type="checkbox" id="showFiltered">
+      </div>
+    </div>
+
+    <div class="section">
+      <h2>설명</h2>
+      <ul>
+        <li><strong>필터링할문구</strong> - 포텐/인기글 목록에서 문구가 포함된 글을 숨김</li>
+        <li><strong>필터링할문구:게시판이름</strong> - 그 게시판에서 온 글인 경우만 숨김</li>
+        <li>엔터 키로 구분. (문구 앞뒤나 중간의) <strong>띄어쓰기도 포함</strong>해 검색. 대소문자 무시. 빈 줄 무시.</li>
+        <li>게시판 이름은 부분 일치로 검색 (예: "유머"는 "유머 - 이슈"도 포함)</li>
+        <li>저장 후 새로고침해야 적용</li>
+      </ul>
+    </div>
+  </div>
+  <script src="popup.js"></script>
+</body>
+</html>
