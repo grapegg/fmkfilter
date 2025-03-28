@@ -10,6 +10,7 @@ FM Korea의 포텐 게시판 혹은 인기글 게시판의 게시물 목록에�
 - 주소 창에 chrome://extensions/ 혹은 edge://extensions/ 입력
 - "개발자 모드" 켜기 (우측 상단 혹은 좌측 패널에 위치)
 - 좌측 상단의 "압축해제된 확장 프로그램을 로드합니다." 눌러서 압축 푼 폴더 선택
+- https://microsoftedge.microsoft.com/addons/detail/fmk-content-filter/fmjidaeahkfiokjlmjlcfelbccjfdnla
   
 ### 아이폰 혹은 아이패드 (오리온 브라우저)
 
