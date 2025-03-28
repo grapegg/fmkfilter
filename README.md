@@ -29,7 +29,7 @@ FM Korea의 포텐 게시판 혹은 인기글 게시판의 게시물 목록에�
 - "개인 정보 및 사용 약관" 누르기
 - 제일 아래의 "Edge Canary 숫자.숫자.숫자.숫자" 다섯 번 눌러 개발자 모드 들어가기
 - 다시 메뉴로 나가서 "개발자 옵션" 메뉴 누르기
-- "Extension install by crx" 누르기
+- "Extension install by crx" 누르기 (or "Extension install by id" 누르고 fmjidaeahkfiokjlmjlcfelbccjfdnla 입력)
 - "Choose .crx file" 누르고 fmkfilter.crx 선택
 - "확인" 누르기
 
