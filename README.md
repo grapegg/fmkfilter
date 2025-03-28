@@ -17,7 +17,7 @@ FM Korea의 포텐 게시판 혹은 인기글 게시판의 게시물 목록에�
 - 여기서 fmkfilter.zip 다운받기
 - 우측 하단의 메뉴버튼 누르고 Extensions 누르기
 - 좌측 하단의 + 표시 누르고 "Install from File" 누르기
-- 우측 하단의 Browse 누르고 fmkfilter.zip 선택
+- 우측 하단의 Browse 누르고 fmkfilter.zip 선택 (Browse를 한 번 더 눌러버렸다면, Locations의 On My iPhone 누르고 Orion 폴더 들어가기)
 - Add 누르기
 
 ### 안드로이드 (Edge Canary 브라우저)
