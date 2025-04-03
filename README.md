@@ -6,7 +6,11 @@ FM Korea의 포텐 게시판 혹은 인기글 게시판의 게시물 목록에�
 
 ### PC (Edge 브라우저)
 
-- https://microsoftedge.microsoft.com/addons/detail/fmk-content-filter/fmjidaeahkfiokjlmjlcfelbccjfdnla 
+- https://microsoftedge.microsoft.com/addons/detail/fmk-content-filter/fmjidaeahkfiokjlmjlcfelbccjfdnla
+
+### PC (Firefox 브라우저)
+
+- https://addons.mozilla.org/en-US/firefox/addon/fmkfilter/
 
 ### PC (Chrome 브라우저 혹은 Edge 브라우저 다른 방법) 
 
